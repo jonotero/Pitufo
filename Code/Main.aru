@@ -4,7 +4,7 @@ println("Inicio")
 var a=32, b="Esto es un texto"
 var mb="kakota"
 var mb12332="pikota"
-
+var proton="Esto es un proton molon"
 print (b)
 
 a=a+34
