@@ -3,7 +3,7 @@ println("Inicio")
 
 var a=32, b="Esto es un texto"
 var mb="kakota"
-var mb2="pikota"
+var mb32="pikota"
 
 print (b)
 
