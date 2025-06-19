@@ -1,0 +1,11 @@
+
+println("Inicio")
+
+var a=32, b="Esto es un texto"
+
+print (b)
+
+a=a+34
+
+println (a)
+
